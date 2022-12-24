@@ -1,0 +1,1 @@
+javascript: document.title = prompt("Change Page Title",document.title); void 0
