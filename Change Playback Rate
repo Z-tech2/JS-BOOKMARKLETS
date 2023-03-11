@@ -1,0 +1,1 @@
+javascript:document.body.querySelector('video').playbackRate = prompt('Set Playback Rate:');void 0
