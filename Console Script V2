@@ -1,0 +1,1 @@
+javascript:window.location.assign('javascript'+':'+prompt('Console:'));void 0
