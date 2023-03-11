@@ -1,0 +1,1 @@
+javascript:var email = prompt('Insert Email Address Here:');var subject = prompt('Insert Subject Here:'); Boddy = prompt('Insert Body Here:');window.location.assign('mailto:'+email+'?subject=%27+subject+%27&body=%27+Boddy)
